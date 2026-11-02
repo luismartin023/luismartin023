@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=121214&height=210&section=header&text=Luis%20Martin%20Pe%C3%B1a%20Mej%C3%ADa&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Founder%20%C2%B7%20CTO%20%40%20MKZ%20Company%20%7C%20Systems%20Architect&descSize=17&descColor=a1a1aa&descAlignY=66&animation=fadeIn" width="100%" alt="Luis Martin Peña Mejía — Founder & CTO @ MKZ Company"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=121214&height=210&section=header&text=Luis%20Martin%20Pe%C3%B1a%20Mej%C3%ADa&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Fundador%20%C2%B7%20CTO%20%40%20MKZ%20Company%20%7C%20Arquitecto%20de%20Sistemas&descSize=17&descColor=a1a1aa&descAlignY=66&animation=fadeIn" width="100%" alt="Luis Martin Peña Mejía — Fundador y CTO @ MKZ Company"/>
 
   *Diseñando y construyendo software SaaS de alto rendimiento, sistemas distribuidos y experiencias UI/UX avanzadas.*
 
@@ -10,7 +10,7 @@
 
 ## 👤 Sobre mí
 
-- 🏢 **Founder & CTO @ MKZ Company** — fundé mi empresa de software a los 21 años.
+- 🏢 **Fundador y CTO @ MKZ Company** — fundé mi empresa de software a los 21 años.
 - 🎓 Ingeniería de Software — **UCE, Punta Cana** (8vo cuatrimestre de 12).
 - 🔭 Construyendo **Frontera MKZ** y el **ARCAM UI PACK**, los productos insignia de la compañía.
 - 🌱 Ruta independiente: **React · Next.js · Motion · Supabase / PostgreSQL**.
@@ -21,7 +21,7 @@
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| [**Frontera MKZ**](https://github.com/luismartin023/FRONTERA-MKZ) | Plataforma SaaS multi-tenant para gestión académica e institucional. | `Next.js` `TypeScript` `Supabase` |
+| **Frontera MKZ** 🔒 | Plataforma SaaS multi-tenant para gestión académica e institucional. | `Next.js` `TypeScript` `Supabase` |
 | **ARCAM UI PACK** 🔒 | Sistema de diseño y componentes UI/UX de alta densidad para aplicaciones dark mode. | `TypeScript` `React` `CSS` |
 | **Nova MKZ** 🔒 | Facturación, cotizaciones y POS para RD (NCF/DGII · ITBIS 18%). | `VBA` → `Next.js` |
 | [**GNS3 Exportador**](https://github.com/luismartin023/gns3-exportador) | Empaqueta proyectos GNS3 como `.gns3project` portable — arregla el fallo del export oficial con nodos VMware. | `PowerShell` |
@@ -36,9 +36,9 @@
   <img src="https://streak-stats.demolab.com?user=luismartin023&locale=es&background=121214&border=27272a&stroke=27272a&ring=e11d48&fire=e11d48&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=a1a1aa" alt="Racha de contribuciones"/>
 </div>
 
-## 🛠️ Tech Stack
+## 🛠️ Stack técnico
 
-**Languages & Core**
+**Lenguajes y núcleo**
 
 ![C#](https://img.shields.io/badge/C%23-121214?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-121214?style=for-the-badge&logo=typescript&logoColor=white)
@@ -47,7 +47,7 @@
 ![C++](https://img.shields.io/badge/C++-121214?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-121214?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**Frontend & UI**
+**Frontend e interfaz**
 
 ![Next.js](https://img.shields.io/badge/Next.js-121214?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-121214?style=for-the-badge&logo=react&logoColor=white)
@@ -55,7 +55,7 @@
 ![Motion](https://img.shields.io/badge/Motion-121214?style=for-the-badge&logo=framer&logoColor=white)
 ![ARCAM UI](https://img.shields.io/badge/ARCAM_UI-e11d48?style=for-the-badge&logoColor=white)
 
-**Backend & Infra**
+**Backend e infraestructura**
 
 ![.NET](https://img.shields.io/badge/.NET-121214?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-121214?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -64,7 +64,7 @@
 ![Docker](https://img.shields.io/badge/Docker-121214?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-121214?style=for-the-badge&logo=git&logoColor=white)
 
-**Cloud & Servicios**
+**Nube y servicios**
 
 ![Vercel](https://img.shields.io/badge/Vercel-121214?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-121214?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -76,8 +76,11 @@
 ## 📫 Contacto
 
 [![Email](https://img.shields.io/badge/mkzcompanyofficial%40gmail.com-121214?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkzcompanyofficial@gmail.com)
-[![MKZ Company](https://img.shields.io/badge/MKZ_Company-121214?style=for-the-badge&logoColor=white)](https://lnk.bio/MKZ_Company)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-121214?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-121214?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-martin-pe%C3%B1a-mejia-9a00433b1)
+[![YouTube](https://img.shields.io/badge/YouTube-121214?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mkzcompany)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-121214?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18296782049)
+[![Discord](https://img.shields.io/badge/Discord-121214?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bA8t6wAqZe)
+[![Todas mis redes](https://img.shields.io/badge/Todas_mis_redes-121214?style=for-the-badge&logoColor=white)](https://lnk.bio/MKZ_Company)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=121214&height=60&section=footer" width="100%" alt=""/>
