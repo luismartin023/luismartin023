@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=121214&height=210&section=header&text=Luis%20Martin%20Pe%C3%B1a%20Mej%C3%ADa&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Founder%20%26%20CTO%20%40%20MKZ%20Company%20%7C%20Systems%20Architect&descSize=17&descColor=a1a1aa&descAlignY=66&animation=fadeIn" width="100%" alt="Luis Martin Peña Mejía — Founder & CTO @ MKZ Company"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=121214&height=210&section=header&text=Luis%20Martin%20Pe%C3%B1a%20Mej%C3%ADa&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Founder%20%C2%B7%20CTO%20%40%20MKZ%20Company%20%7C%20Systems%20Architect&descSize=17&descColor=a1a1aa&descAlignY=66&animation=fadeIn" width="100%" alt="Luis Martin Peña Mejía — Founder & CTO @ MKZ Company"/>
 
   *Diseñando y construyendo software SaaS de alto rendimiento, sistemas distribuidos y experiencias UI/UX avanzadas.*
 
