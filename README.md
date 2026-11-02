@@ -29,8 +29,11 @@
 ## 📈 Estadísticas
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luismartin023&show_icons=true&include_all_commits=true&count_private=true&bg_color=121214&title_color=ffffff&text_color=a1a1aa&icon_color=e11d48&border_color=27272a&border_radius=8&locale=es" alt="Estadísticas de GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismartin023&layout=compact&langs_count=8&bg_color=121214&title_color=ffffff&text_color=a1a1aa&icon_color=e11d48&border_color=27272a&border_radius=8&locale=es" alt="Lenguajes más usados"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luismartin023&theme=github_dark" alt="Estadísticas de GitHub"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luismartin023&theme=github_dark" alt="Lenguajes más usados"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=luismartin023&locale=es&background=121214&border=27272a&stroke=27272a&ring=e11d48&fire=e11d48&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=a1a1aa" alt="Racha de contribuciones"/>
 </div>
 
 ## 🛠️ Tech Stack
@@ -73,7 +76,7 @@
 ## 📫 Contacto
 
 [![Email](https://img.shields.io/badge/mkzcompanyofficial%40gmail.com-121214?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkzcompanyofficial@gmail.com)
-[![MKZ Company](https://img.shields.io/badge/MKZ_Company-121214?style=for-the-badge&logo=linktree&logoColor=white)](https://lnk.bio/MKZ_Company)
+[![MKZ Company](https://img.shields.io/badge/MKZ_Company-121214?style=for-the-badge&logoColor=white)](https://lnk.bio/MKZ_Company)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-121214?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
 
 <div align="center">
