@@ -25,6 +25,8 @@
 | **ARCAM UI PACK** 🔒 | Sistema de diseño y componentes UI/UX de alta densidad para aplicaciones dark mode. | `TypeScript` `React` `CSS` |
 | **Nova MKZ** 🔒 | Facturación, cotizaciones y POS para RD (NCF/DGII · ITBIS 18%). | `VBA` → `Next.js` |
 | [**GNS3 Exportador**](https://github.com/luismartin023/gns3-exportador) | Empaqueta proyectos GNS3 como `.gns3project` portable — arregla el fallo del export oficial con nodos VMware. | `PowerShell` |
+| [**PERFUME**](https://github.com/luismartin023/PERFUME) | Página web de perfume y juego. | `HTML` `CSS` `JS` |
+| [**MINECRAFTWIKI**](https://github.com/luismartin023/MINECRAFTWIKI) | Wiki interactiva de Minecraft. | `C#` |
 
 ## 📈 Estadísticas
 
@@ -83,6 +85,5 @@
 [![Todas mis redes](https://img.shields.io/badge/Todas_mis_redes-121214?style=for-the-badge&logoColor=white)](https://lnk.bio/MKZ_Company)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=121214&height=60&section=footer" width="100%" alt=""/>
   <sub>© 2026 Luis Martin Peña Mejía · MKZ Company — Sistema ARCAM UI</sub>
 </div>
