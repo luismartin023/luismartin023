@@ -31,11 +31,11 @@
 ## 📈 Estadísticas
 
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luismartin023&theme=github_dark" alt="Estadísticas de GitHub"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luismartin023&theme=github_dark" alt="Lenguajes más usados"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luismartin023&theme=github_dark&v=2" alt="Estadísticas de GitHub"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luismartin023&theme=github_dark&v=2" alt="Lenguajes más usados"/>
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=luismartin023&locale=es&background=121214&border=27272a&stroke=27272a&ring=e11d48&fire=e11d48&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=a1a1aa" alt="Racha de contribuciones"/>
+  <img src="https://streak-stats.demolab.com?user=luismartin023&locale=es&background=121214&border=27272a&stroke=27272a&ring=e11d48&fire=e11d48&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=a1a1aa&v=2" alt="Racha de contribuciones"/>
 </div>
 
 ## 🛠️ Stack técnico
